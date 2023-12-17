@@ -22,6 +22,13 @@
 **待实现的特性**
 - 扩展日志格式，支持自定义日志格式及过滤器
 
+## 界面
+### 日志
+![log_main_interface.png](pic%2Flog_main_interface.png)
+
+### 主题设置
+![theme_configuration.png](pic%2Ftheme_configuration.png)
+
 ## 参考
 项目最初基于[lognote](https://github.com/cdcsgit/lognote)，对其进行了完全重构，对日志加载和渲染流程进行了优化，
 功能上增加了构建各平台产物的能力，增加了软件更新功能，增加了日志分页显示功能。
