@@ -9,6 +9,10 @@
 
 **CatSpy** - A tool for browsing logs.
 
+This repository serves as the initial record of forking from [lognote](https://github.com/cdcsgit/lognote). 
+
+For more details, please check [CatSpy](https://github.com/Gegenbauer/CatSpy).
+
 **Main Features:**
 - Can filter logs based on various parts
 - Import local file logs and view real-time logs of connected devices

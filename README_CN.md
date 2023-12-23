@@ -9,6 +9,10 @@
 
 **CatSpy** - 一个用于浏览日志的工具。
 
+本仓库作为最初 fork 自 [lognote](https://github.com/cdcsgit/lognote) 的记录
+
+详细内容请查看 [CatSpy](https://github.com/Gegenbauer/CatSpy)
+
 **主要特性：**
 - 能针对日志的各个部分进行过滤
 - 导入本地文件日志和查看已连接设备实时日志
